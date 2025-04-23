@@ -172,7 +172,7 @@ export default function ProductList({ initialProducts }) {
                   <img
                     src={p.image}
                     alt={p.title}
-                    className="h-40 sm:h-50 w-full object-cover rounded-xl mb-4 transition-transform hover:scale-105"
+                    className="h-70 sm:h-60 w-full object-cover rounded-xl mb-4 transition-transform hover:scale-105"
                   />
                 </Link>
               </div>
