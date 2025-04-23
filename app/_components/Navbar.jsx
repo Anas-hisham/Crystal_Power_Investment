@@ -146,7 +146,7 @@ export default function Navbar() {
         <div className="absolute top-16 left-0 w-full bg-white shadow-md px-6 py-6 z-40 rounded-b-xl">
           <div className="space-y-4">
             <Link
-              href="/shop"
+              href="/products"
               onClick={toggleMenu}
               className="block text-gray-800 hover:text-red-400"
             >
