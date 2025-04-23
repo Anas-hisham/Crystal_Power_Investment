@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "../assets/Girl1.png",
+            "title": "Jacket",
+            "price": 49.99,
+            "type": "Trending Now"
+        },
+        {
+            "id": 2,
+            "image": "../assets/Girl1.png",
+            "title": "Jeans",
+            "price": 39.99,
+            "type": "Womens"
+        },
+        {
+            "id": 3,
+            "image": "../assets/Girl1.png",
+            "title": "Acrylic Sweater",
+            "price": 29.99,
+            "type": "Womens"
+        },
+        {
+            "id": 4,
+            "image": "../assets/Girl1.png",
+            "title": "Winter Coat",
+            "price": 99.99,
+            "type": "Trending Now"
+        }
+    ]
+}
